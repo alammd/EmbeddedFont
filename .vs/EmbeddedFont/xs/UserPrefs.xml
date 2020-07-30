@@ -3,15 +3,17 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="EmbeddedFont/MainPage.xaml">
     <Files>
       <File FileName="EmbeddedFont/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="EmbeddedFont/MainPage.xaml" Line="14" Column="15" />
-      <File FileName="EmbeddedFont/AssemblyInfo.cs" Line="7" Column="1" />
-      <File FileName="EmbeddedFont/FontAwesomeIcon.cs" Line="1" Column="1" />
+      <File FileName="EmbeddedFont/MainPage.xaml" Line="14" Column="14" />
+      <File FileName="EmbeddedFont/AssemblyInfo.cs" />
+      <File FileName="EmbeddedFont/FontAwesomeIcon.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EmbeddedFont" expanded="True" selected="True">
-            <Node name="EmbeddedFont" expanded="True" />
+          <Node name="EmbeddedFont" expanded="True">
+            <Node name="EmbeddedFont" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
             <Node name="EmbeddedFont.Android" expanded="True" />
             <Node name="EmbeddedFont.iOS" expanded="True" />
           </Node>
