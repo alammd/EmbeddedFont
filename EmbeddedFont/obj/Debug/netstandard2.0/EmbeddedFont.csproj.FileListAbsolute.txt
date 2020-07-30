@@ -2,7 +2,6 @@
 /Users/apple/Projects/EmbeddedFont/EmbeddedFont/bin/Debug/netstandard2.0/EmbeddedFont.dll
 /Users/apple/Projects/EmbeddedFont/EmbeddedFont/bin/Debug/netstandard2.0/ref/EmbeddedFont.dll
 /Users/apple/Projects/EmbeddedFont/EmbeddedFont/bin/Debug/netstandard2.0/EmbeddedFont.pdb
-/Users/apple/Projects/EmbeddedFont/EmbeddedFont/obj/Debug/netstandard2.0/EmbeddedFont.csprojAssemblyReference.cache
 /Users/apple/Projects/EmbeddedFont/EmbeddedFont/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/apple/Projects/EmbeddedFont/EmbeddedFont/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/apple/Projects/EmbeddedFont/EmbeddedFont/obj/Debug/netstandard2.0/EmbeddedFont.csproj.CoreCompileInputs.cache
