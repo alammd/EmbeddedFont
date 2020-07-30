@@ -1,19 +1,17 @@
-﻿<Properties StartupConfiguration="{32615F96-10F6-4794-8B51-1DD450E2E7EA}|Default">
-  <MonoDevelop.Ide.ItemProperties.EmbeddedFont.iOS FirstBuild="True" />
+﻿<Properties StartupConfiguration="{F45F5F5A-5C2A-412D-A877-1CF2E5CED4B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.EmbeddedFont.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CB6D75E6-CEF4-416C-A96E-686CD5FC285B" />
   <MonoDevelop.Ide.Workbench ActiveDocument="EmbeddedFont/MainPage.xaml">
     <Files>
       <File FileName="EmbeddedFont/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="EmbeddedFont/MainPage.xaml" Line="11" Column="16" />
-      <File FileName="EmbeddedFont/AssemblyInfo.cs" Line="5" Column="59" />
+      <File FileName="EmbeddedFont/MainPage.xaml" Line="14" Column="15" />
+      <File FileName="EmbeddedFont/AssemblyInfo.cs" Line="7" Column="1" />
       <File FileName="EmbeddedFont/FontAwesomeIcon.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EmbeddedFont" expanded="True">
-            <Node name="EmbeddedFont" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
-            </Node>
+          <Node name="EmbeddedFont" expanded="True" selected="True">
+            <Node name="EmbeddedFont" expanded="True" />
             <Node name="EmbeddedFont.Android" expanded="True" />
             <Node name="EmbeddedFont.iOS" expanded="True" />
           </Node>
@@ -21,9 +19,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.EmbeddedFont.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.EmbeddedFont.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.EmbeddedFont FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
