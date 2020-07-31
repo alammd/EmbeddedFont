@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="EmbeddedFont/MainPage.xaml">
     <Files>
       <File FileName="EmbeddedFont/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="EmbeddedFont/MainPage.xaml" Line="14" Column="14" />
+      <File FileName="EmbeddedFont/MainPage.xaml" Line="14" Column="8" />
       <File FileName="EmbeddedFont/AssemblyInfo.cs" />
       <File FileName="EmbeddedFont/FontAwesomeIcon.cs" />
     </Files>
