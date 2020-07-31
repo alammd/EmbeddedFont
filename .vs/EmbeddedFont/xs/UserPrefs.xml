@@ -12,7 +12,9 @@
         <State name="__root__">
           <Node name="EmbeddedFont" expanded="True">
             <Node name="EmbeddedFont" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" selected="True" />
+              </Node>
             </Node>
             <Node name="EmbeddedFont.Android" expanded="True" />
             <Node name="EmbeddedFont.iOS" expanded="True" />
