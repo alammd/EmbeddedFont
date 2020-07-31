@@ -1,5 +1,5 @@
 # EmbeddedFont
-
-Material Design Icons official website : https://materialdesignicons.com/
-
-Icon font 2 Code official WebSite : https://andreinitescu.github.io/IconFont2Code/
+## Links for Downloading the Fonts:
+https://materialdesignicons.com/
+## For Converting Fonts to C# Static Class Link:
+https://andreinitescu.github.io/IconFont2Code/
